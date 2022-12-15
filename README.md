@@ -12,7 +12,7 @@ Hi, I'm Sean. I'm currently completing a PhD at the Technical University of Muni
       
 My interest lies in adapting tools and methods from big data and data science for socially responsible use in communication and news media research. 
       
-My profile contains projects from my academic research, along with some evidence of side quests. 
+My profile contains projects from my academic journey, along with some evidence of side quests. 
 
 </td>
 <td>
