@@ -1,4 +1,3 @@
-### Take a look around! 
 
 <!--
 Welcome to my profile! 
