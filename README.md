@@ -8,9 +8,9 @@ Welcome to my profile!
 <tr>
 <td>
 
-Hi, I'm Sean. I once enjoyed long walks on the beach, climbing, and other outdoorsy activities. Now I mostly code. 
+Hi, I'm Sean. I'm currently completing a PhD at the Technical University of Munich. 
       
-I'm currently completing a PhD at the Technical University of Munich. I am interested in adapting tools and methods from big data and data science for socially responsible use in communication and news media research. 
+My interest lies in adapting tools and methods from big data and data science for socially responsible use in communication and news media research. 
       
 My profile contains projects from my academic research, along with some evidence of side quests. 
 
