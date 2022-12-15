@@ -8,7 +8,7 @@ Welcome to my profile!
 <tr>
 <td>
 
-Hi, I'm Sean. I enjoyed long walks on the beach, but then I moved to Munich, Germany. Now, you'll mostly find me applying big data and data science to problems in communication and media studies research. In this profile you will find a mix of projects from my academic research, in addition to a fair amount of personal musings. 
+Hi, I'm Sean. I enjoyed long walks on the beach, but then I moved to Munich, Germany. I'm currently completing a PhD, so you'll mostly find me applying big data and data science methods to problems in communication and media studies research. This profile is a mix of projects from my academic research, along with a fair amount of personal side interests. 
 
 </td>
 <td>
