@@ -10,16 +10,13 @@ Welcome to my profile!
 
 Hi, I'm Sean. I'm currently completing a PhD at the Technical University of Munich. 
       
-My interest lies in adapting tools and methods from big data and data science for socially responsible use in communication and news media research. 
+My interest lies in adapting tools and methods from big data and data science for responsible use in communication and news media research. 
       
 My profile contains projects from my academic journey, along with some evidence of side quests. 
 
 </td>
 <td>
 
-<p align="center">  
-      <img src="https://user-images.githubusercontent.com/9055031/207847628-12d295de-e1da-42a7-8fc2-d5d6285552e6.gif" width="300" height="300">
-    </p>
 
 </td>
 </tr>
