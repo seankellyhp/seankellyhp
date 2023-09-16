@@ -15,9 +15,5 @@ I'm interested in adapting tools and methods from big data and data science for 
 My profile contains projects from my academic journey, along with some evidence of side quests. 
 
 </td>
-<td>
-
-
-</td>
 </tr>
 </table>
